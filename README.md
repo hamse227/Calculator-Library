@@ -1,4 +1,3 @@
-https://github.com/hamse227/Calculator-Library/blob/main/Calculator.jar
 # Calculator Library 🧮
 
 ## Description
